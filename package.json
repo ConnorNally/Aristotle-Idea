@@ -1,0 +1,28 @@
+{
+  "name": "aristotle-idea",
+  "version": "1.0.0",
+  "description": "App iea for experimentation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.0.1",
+    "body-parser": "^1.19.0",
+    "canvas-api": "^3.6.0",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "pug": "^2.0.3",
+    "requirejs": "^2.3.6",
+    "roughjs": "^3.1.0",
+    "snapsvg": "^0.5.1",
+    "triangulr": "^1.0.3",
+    "types": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ConnorNally/repository.git"
+  }
+}
