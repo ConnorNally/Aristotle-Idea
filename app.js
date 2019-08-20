@@ -1,7 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const jquery = require("jquery");
-const canvas =require("canvas-api");
+const canvas =require("canvas")
 const router = express.Router();
 
 const app = express();
